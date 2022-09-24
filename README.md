@@ -1,4 +1,4 @@
-</h1 align="center> Welcome to my little corner on the interwebs 🌱</h1>
+<h1 align="center> Welcome to my little corner on the interwebs 🌱</h1>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arcslogger&show_icons=true&locale=en" alt="arcslogger" /></p>
 
