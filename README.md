@@ -6,7 +6,7 @@ Hey! I'm Wilbur. I do software development by day and graphics design by night. 
 
 - 🔭 I’m currently working on [Lodestone](https://github.com/Lodestone-Team/dashboard)
 
-- 👨‍💻 All of my projects are available at [wilburzhang.com] (https://wilburzhang.com/)
+- 👨‍💻 All of my projects are available at [wilburzhang.com](https://wilburzhang.com/)
 
 - 📫 How to reach me **wilbur.zhang@uwaterloo.ca**
 
