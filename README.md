@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/58961173/221447481-228453f0-43e5-480d-8402-163899273de8.png)
+![image](https://github.com/Arcslogger/Arcslogger/assets/58961173/1091605a-3732-488a-a06d-887191b9f20e)
 
 > Computer science student, design technologist, and curious about a bit of everything. Crafting [beautiful products](https://wilburzhang.com/) for people to create beautiful things. 
 
